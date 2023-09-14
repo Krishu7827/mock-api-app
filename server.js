@@ -1,4 +1,4 @@
-const jsonServer = require("json-ser"); // importing json-server library
+const jsonServer = require("json-server"); // importing json-server library
 const server = jsonServer.create();
 const cors = require("cors")
 const router = jsonServer.router("db.json");
