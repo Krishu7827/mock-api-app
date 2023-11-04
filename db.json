@@ -1,11 +1,28 @@
 {
-    "dogs": [
-      {
-        "id": 1,
-        "name": "Cherry",
-        "age": 2,
-        "place": "Visakhapatnam",
-        "gender": "Male"
-      }
-    ]
-  }
+  "users": [
+    {
+      "name": "pizza",
+      "age": 24,
+      "place": "delhi",
+      "batch_name": "WEB-15",
+      "profession": "Backend",
+      "id": 4
+    },
+    {
+      "name": "rajesh",
+      "age": 14,
+      "place": "dsa",
+      "batch_name": "WEB-14",
+      "profession": "Student",
+      "id": 5
+    },
+    {
+      "name": "ddf",
+      "age": 35,
+      "place": "sd",
+      "batch_name": "WEB-15",
+      "profession": "Backend",
+      "id": 6
+    }
+  ]
+}
